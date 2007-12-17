@@ -12,7 +12,6 @@ Patch: MusicBox-026-pic.patch
 License: GPL
 Group: Sound
 URL: http://www.hayber.us/rox/MusicBox/
-BuildRoot: %{_tmppath}/%{name}-buildroot
 Requires: rox-lib >= 1.9.8
 Requires: pyvorbis
 Requires: pyao
