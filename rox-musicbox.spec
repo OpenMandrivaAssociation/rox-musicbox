@@ -1,7 +1,7 @@
 %define name rox-musicbox
 %define oname MusicBox
 %define version 027
-%define release %mkrel 4
+%define release %mkrel 5
 
 Summary: Music player for the ROX desktop
 Name: %{name}
