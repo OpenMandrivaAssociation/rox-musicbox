@@ -1,0 +1,8 @@
+--- MusicBox/plugins/flac/Makefile~	2005-10-16 21:37:17.000000000 +0200
++++ MusicBox/plugins/flac/Makefile	2005-12-05 09:23:39.000000000 +0100
+@@ -1,4 +1,4 @@
+-INCL 	= -I/usr/include/python2.4
++INCL 	= -I/usr/include/python2.4 -fPIC
+ LIBS	= -lFLAC
+ 
+ all:	sw_metadata decoder encoder
