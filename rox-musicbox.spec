@@ -78,3 +78,71 @@ rm -rf $RPM_BUILD_ROOT
 %_libdir/apps/%oname/tips
 
 
+
+
+%changelog
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 027-7mdv2011.0
++ Revision: 614715
+- the mass rebuild of 2010.1 packages
+
+* Fri Apr 02 2010 Funda Wang <fwang@mandriva.org> 027-6mdv2010.1
++ Revision: 530759
+- rebuild
+
+* Tue Sep 08 2009 Thierry Vignaud <tv@mandriva.org> 027-5mdv2010.0
++ Revision: 433395
+- rebuild
+
+* Sat Aug 02 2008 Thierry Vignaud <tv@mandriva.org> 027-4mdv2009.0
++ Revision: 260301
+- rebuild
+
+* Mon Jul 28 2008 Thierry Vignaud <tv@mandriva.org> 027-3mdv2009.0
++ Revision: 251406
+- rebuild
+
+* Wed Jan 02 2008 Olivier Blin <oblin@mandriva.com> 027-1mdv2008.1
++ Revision: 140747
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Mon Jan 22 2007 GÃ¶tz Waschk <waschk@mandriva.org> 027-1mdv2007.0
++ Revision: 111751
+- Import rox-musicbox
+
+* Mon Jan 22 2007 Götz Waschk <waschk@mandriva.org> 027-1mdv2007.1
+- disable flac
+- new version
+
+* Tue Aug 01 2006 GÃ¶tz Waschk <waschk@mandriva.org> 026-1mdv2007.0
+- Rebuild
+
+* Mon Dec 05 2005 Götz Waschk <waschk@mandriva.org> 026-1mdk
+- fix build on x86_64
+- New release 026
+
+* Thu Oct 27 2005 Lenny Cartier <lenny@mandriva.com> 024-2mdk
+- rebuild for allegro
+
+* Tue Oct 18 2005 Götz Waschk <waschk@mandriva.org> 024-1mdk
+- no more noarch
+- fix URL
+- update buildrequires
+- New release 024
+
+* Tue Oct 19 2004 Götz Waschk <waschk@linux-mandrake.com> 019-1mdk
+- fix file list
+- New release 019
+
+* Wed May 19 2004 Götz Waschk <waschk@linux-mandrake.com> 017.1-2mdk
+- fix URL
+
+* Wed May 19 2004 Götz Waschk <waschk@linux-mandrake.com> 017.1-1mdk
+- new version
+
+* Thu Apr 15 2004 Götz Waschk <waschk@linux-mandrake.com> 015-1mdk
+- initial package
+
