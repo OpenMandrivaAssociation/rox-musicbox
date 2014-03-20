@@ -1,3 +1,5 @@
+%define debug_package %{nil}
+
 %define oname MusicBox
 
 Summary: Music player for the ROX desktop
