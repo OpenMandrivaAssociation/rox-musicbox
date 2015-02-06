@@ -5,7 +5,7 @@
 Summary: Music player for the ROX desktop
 Name:    rox-musicbox
 Version: 027
-Release: 8
+Release: 9
 Source0: http://www.hayber.us/rox/musicbox/%{oname}-%{version}.tar.bz2
 Patch:   MusicBox-026-pic.patch
 License: GPL
