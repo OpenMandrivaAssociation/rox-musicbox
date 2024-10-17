@@ -10,7 +10,7 @@ Source0: http://www.hayber.us/rox/musicbox/%{oname}-%{version}.tar.bz2
 Patch:   MusicBox-026-pic.patch
 License: GPL
 Group:   Sound
-URL: http://www.hayber.us/rox/MusicBox/
+URL: https://www.hayber.us/rox/MusicBox/
 Requires: rox-lib >= 1.9.8
 Requires: pyvorbis
 Requires: pyao
